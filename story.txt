@@ -1,5 +1,6 @@
-artem_test_second_delete
-DELETE second!
+000
+000
+000
 
 000
 
