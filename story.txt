@@ -19,3 +19,6 @@ Branch_dev_first!
 
 and here at night Julia was trying to make her first commit in Artem's repository
 
+
+here i try something in my branch and later i want to merge it in master branch
+
