@@ -13,3 +13,6 @@ GHI
 second commit
 
 Third commit
+
+
+and here at night Julia was trying to make her first commit in Artem's repository
